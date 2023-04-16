@@ -11,3 +11,9 @@ header{
     padding-left: 1%;
     margin: 1%;
 }
+
+main{
+    display: grid;
+    grid-template-columns: 1 fr 3fr;
+    
+}
