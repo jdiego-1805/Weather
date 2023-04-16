@@ -1,0 +1,13 @@
+header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    padding: 1%;
+}
+
+.searchbox{
+    font-size: x-large;
+    padding-left: 1%;
+    margin: 1%;
+}
